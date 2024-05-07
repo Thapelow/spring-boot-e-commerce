@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/GooseProject/GooseCommon/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/GooseProject/GooseWebParent/GooseBackEnd/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GooseProject/GooseWebParent/GooseFrontEnd/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/GooseProject/GooseWebParent/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/GooseProject/GooseWebParent/src/main/resources" charset="UTF-8" />
   </component>

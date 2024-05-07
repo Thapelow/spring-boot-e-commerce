@@ -3,10 +3,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-	<groupId>com.goosenvi</groupId>
-	<artifactId>GooseWebParent</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+		<groupId>com.goosenvi</groupId>
+		<artifactId>GooseWebParent</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
 	</parent>
+
 	<artifactId>GooseBackEnd</artifactId>
 	<name>GooseBackEnd</name>
 	<description>Goose Admin Project</description>
@@ -14,6 +15,7 @@
 	<properties>
 		<java.version>17</java.version>
 	</properties>
+
 	<dependencies>
 	</dependencies>
 
